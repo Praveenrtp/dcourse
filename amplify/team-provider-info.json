@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dollarcourse-staging-210759-authRole",
+      "UnauthRoleArn": "arn:aws:iam::498878800279:role/amplify-dollarcourse-staging-210759-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::498878800279:role/amplify-dollarcourse-staging-210759-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-dollarcourse-staging-210759-deployment",
+      "UnauthRoleName": "amplify-dollarcourse-staging-210759-unauthRole",
+      "StackName": "amplify-dollarcourse-staging-210759",
+      "StackId": "arn:aws:cloudformation:us-east-1:498878800279:stack/amplify-dollarcourse-staging-210759/60dd6f40-8561-11ed-8f3d-0a0fee2a77e3",
+      "AmplifyAppId": "d32v59mwx6bll6"
+    }
+  }
+}
